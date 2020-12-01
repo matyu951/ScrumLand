@@ -355,7 +355,7 @@ header {
 
 .Modern-Slider .info p {
   font-size: 15px;
-  color: #fff;
+  color: white; 
 }
 
 .Modern-Slider .info .white-button {
@@ -403,6 +403,11 @@ header {
   font:32px/50px FontAwesome;
   color:#FFF;
   z-index:5;
+}
+
+div .info{
+  color: white; 
+  text-shadow: black 0.1em 0.1em 0.2em
 }
 
 .Modern-Slider .item .image {
