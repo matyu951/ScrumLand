@@ -1067,7 +1067,11 @@ div .info{
 
 }
 
-@media (max-width: 690px) {
+
+  @media (max-width: 690px) {
+
+  }
+  
 
   .section-heading p {
     position: relative;
@@ -1116,6 +1120,18 @@ div .info{
   #contact-content {
     padding-left: 15px;
     padding-right: 15px;
+  }
+
+  @media (max-height: : 730px) {
+
+    .sidebar-navigation nav{
+      top: 70%;
+    }
+
+    .sidebar-navigation li {
+    padding: 2px 0;
+}
+
   }
 
 }
