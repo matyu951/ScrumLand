@@ -1122,15 +1122,7 @@ div .info{
     padding-right: 15px;
   }
 
-  @media (max-height: : 730px) {
-
-    .sidebar-navigation nav{
-      top: 70%;
-    }
-
-    .sidebar-navigation li {
-    padding: 2px 0;
-}
+  
 
   }
 
