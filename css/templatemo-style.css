@@ -1191,10 +1191,7 @@ header {
     font:32px/50px FontAwesome;
     color:#FFF;
     z-index:5;
-  }
-
-  
-
+  } 
 }
 
 <<<<<<< HEAD
@@ -1251,15 +1248,6 @@ header {
 
 }
 
- @media (max-height: : 730px) {
-
-
-    .sidebar-navigation li {
-    padding: 4px 0;
-    }
-
-  }
-=======
 
   @media (max-width: 690px) {
     .section-heading p {
@@ -1310,4 +1298,12 @@ header {
       padding-right: 15px;
     }
   } 
->>>>>>> c86d8f3a26d6c945e9033d9f98a86194f92c34c6
+
+   @media (max-height: : 800px) {
+
+
+    .sidebar-navigation li {
+    padding: 4px 0;
+    }
+
+  }
